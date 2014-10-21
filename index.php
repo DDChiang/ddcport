@@ -24,7 +24,7 @@
 			 <div id="hero-text">Welcome to My Portfolio</div>
 			 <br><br>During my last quarter in college, none of the career possibilities of an econ grad interested me. 
 			 I spent a month aimlessly looking for possible leads to a more <span id="ital-grey">interesting life</span>.
-			 <br><br> Then I got exposed to some really <a href="#"><span id="big-yellow">AWESOME SITES</span></a>.
+			 <br><br> Then I got exposed to some really <a href="http://www.verynicesites.com/" target="_blank"><span id="big-yellow">AWESOME SITES</span></a>.
 			 <br><br>As an econ major with no programming or web dev experience, I immediately got to work.
 			 I know there's a lot still to learn. But hey, when you start from 0, you can only get better. 
 			 <br><br>On the <span style="color:white;">left navbar</span> are a few of my current pet projects.
@@ -63,7 +63,7 @@
 				 <div class="hero_title">ODYSEY: Future of space exploration = space tourism<br>
 				 </div>
 				 <div class="description">Web Mockup of potential space tourism site.
-				 <a href="sites/odysey/index.html">Click to visit site</a><br><br>
+				 <a href="sites/odysey/index.html" target="_blank">Click to visit site</a><br><br>
 				 I was really amazed my first time coming across the jQuery's "Parallax" effect. My first attempt at  creating it wasn't successful. 
 				 My second attempt proved fruitful but I didn't realize that the effect made mobile work too hard. 
 				 <br><br>Third and final attempt(for now): Allow parallax to work its magic for large devices and use jQuery to check and disable for smaller devices.
@@ -85,7 +85,7 @@
 			
 		  <div class="panel" id="piefactory">
 		    <div class="panel-content">	
-			  <div class="hero_title">PIE FACTORY: <a href="sites/piefactory/index.html">Click to visit site</a></div>
+			  <div class="hero_title">PIE FACTORY: <a href="sites/piefactory/index.html" target="_blank">Click to visit site</a></div>
 			  <div class="go_link"></div>
 			  <div class="previews_wrapper">
 			    <div class="box" id="box100"><img src="images/pie_long.png"></div>
@@ -107,7 +107,7 @@
 			
 		  <div class="panel" id="stgrammercy">
 		     <div class="panel-content">	
-			  <div class="hero_title">St. GRAMMERCY: <a href="http://stgrammercy.com">Click to visit site</a></div>
+			  <div class="hero_title">St. GRAMMERCY: <a href="http://stgrammercy.com" target="_blank">Click to visit site</a></div>
 			  <div class="description">One of my first few projects. It was my first time working with a Drupal CMS. 
 			  It took a while for me to figure out where everything was. My personal fav part: customizing the css.</div>
 			  <div class="previews_wrapper">
@@ -129,7 +129,7 @@
 				<div class="box" id="box100" ><img src="images/oaktree_long.png"></div>
 				<div class="hero_title">OAKTREE: A restaurant concept site.</div>
 				<div class="description">One of my first "mock" sites built on php modules. Of course, I used my own images of Westwood's 800 Degrees</div>
-				<br><a href="sites/oaktree/index.php">Click to visit site</a><br><br>
+				<br><a href="sites/oaktree/index.php" target="_blank">Click to visit site</a><br><br>
 				<div class="box" id="box30"><img src="images/oaktree1.png"></div>
 				<div class="box" id="box30"><img src="images/oaktree2.png"></div>
 				
