@@ -5,4 +5,5 @@
 	  <div id="tab"><a href="#piefactory"><span id="linker">::PIE FACTORY</span></a></div>
 	  <div id="tab"><a href="#stgrammercy"><span id="linker">::ST. GRAMMERCY</span></a></div>
 	  <div id="tab"><a href="#oaktree"><span id="linker">::OAKTREE</span></a></div>
+	  <div id="tab"><a href="#random-ideas"><span id="linker">::RANDOM IDEAS</span></a></div>
 </div>

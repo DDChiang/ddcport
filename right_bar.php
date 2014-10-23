@@ -4,5 +4,6 @@
 	  <div id="blurb"><div id="text">Web Skills: Ruby/Rails, PHP, Java (light), Javascript/jQuery, HTML/CSS</div></div>
 	  <div id="blurb"><div id="text">"Here's me acting like a mime" - DD</div></div>
 	  <div id="blurb"><div id="text">Fav Artist: The Heavy + Pendulum</div></div>
-	  <div id="blurb"><div id="text">Luv Topics: Tech, Fashion, Food, Outerspace</div></div>
+	  <div id="blurb"><div id="text">Luv Topics: Tech, UI/UX, Fashion, Food, Outerspace</div></div>
+	  <div id="blurb"><div id="text"><a href=https://github.com/DDChiang" target="_blank">Github: DDChiang</a></div></div>
 </div>

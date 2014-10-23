@@ -22,11 +22,10 @@
 			<div class="home-content">
 				
 			 <div id="hero-text">Welcome to My Portfolio</div>
-			 <br><br>During my last quarter in college, none of the career possibilities of an econ grad interested me. 
-			 I spent a month aimlessly looking for possible leads to a more <span id="ital-grey">interesting life</span>.
-			 <br><br> Then I got exposed to some really <a href="http://www.verynicesites.com/" target="_blank"><span id="big-yellow">AWESOME SITES</span></a>.
+			 <br><br>During my last quarter in college, my friend introduced me to my first online web design course. 
+			 During that time, I got exposed to some really <a href="http://www.verynicesites.com/" target="_blank"><span id="big-yellow">AWESOME SITES</span></a>.
+			 Then I got to thinking, "hmm....this could lead to something <span id="ital-grey">interesting</span>.
 			 <br><br>As an econ major with no programming or web dev experience, I immediately got to work.
-			 I know there's a lot still to learn. But hey, when you start from 0, you can only get better. 
 			 <br><br>On the <span style="color:white;">left navbar</span> are a few of my current pet projects.
 			</div>  
 		 </div>
@@ -48,9 +47,10 @@
 				<br><br>
 				A few concept shots. Got the ui running on Android Studio:</div>
 				<br>Customer Side:<br><br>
-				<div class="box" id="box100"><img src="images/guiwallet_demo1.png"></div>
-				<br>Merchant Side:<br><br>
-				<div class="box" id="box100"><img src="images/guiwallet_demo2.png"></div>
+				<div class="box" id="box100"><img src="images/guiwallet_2.png"></div>
+				<div class="box" id="box100"><img src="images/guiwallet_3.png"></div>
+				<div class="box" id="box100"><img src="images/guiwallet_4.png"></div>
+				<div class="box" id="box100"><img src="images/guiwallet_5.png"></div>
 			  </div>
 			</div> 
 		 </div>
@@ -109,7 +109,7 @@
 		     <div class="panel-content">	
 			  <div class="hero_title">St. GRAMMERCY: <a href="http://stgrammercy.com" target="_blank">Click to visit site</a></div>
 			  <div class="description">One of my first few projects. It was my first time working with a Drupal CMS. 
-			  It took a while for me to figure out where everything was. My personal fav part: customizing the css.</div>
+			  It took a while for me to figure out all the kinks of the system. My personal fav part: overriding the original styles with my own customized css.</div>
 			  <div class="previews_wrapper">
 			    <div class="box" id="box100" ><img src="images/stgram_long.png"></div>
 				<div class="description">Blog: Explore</div>
@@ -136,7 +136,29 @@
 				<div class="box" id="box30"><img src="images/oaktree4.png"></div>
 			  </div>
 			</div>  
-		  </div>	
+		  </div>
+
+		  <div class="panel" id="random-ideas">
+			 <div class="panel-content">	
+			  <div class="previews_wrapper"> 
+				<div class="hero_title">Random Design Ideas</div>
+				<div class="box" id="box100" ><img src="images/random-ideas/about_us.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/mod_grit.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/st_gramko.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_1.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_2.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_4.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_5.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_6.png"></div>
+				<div class="box" id="box50"><img src="images/random-ideas/st_gram_3.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/hiero.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/ua1.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/ua2.png"></div>
+				<div class="box" id="box100"><img src="images/random-ideas/moving_fiction.png"></div>
+				<div class="box" id="box70"><img src="images/random-ideas/hex_farm.png"></div>
+			  </div>
+			</div>  
+		  </div>		
 		  
 	  </div>	  
 	</div>
