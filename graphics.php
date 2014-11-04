@@ -15,9 +15,19 @@
   
   <body>
     <div class="content-wrapper">
-	  
-	    <div class="box-50"><img src="graphics/Benjamin-Britts-long.png"></div>
+	    <div class="box-50"><img src="graphics/3-d-prints.png"></div>
+		<div class="box-50"><img src="graphics/mach-fiber.png"></div>
+		<div class="box-50"><img src="graphics/worldOf3d.png"></div>
+		
+		<div class="box-50"><img src="graphics/murry1.png"></div>
+		<div class="box-50"><img src="graphics/baggers.png"></div>
+		<div class="box-50"><img src="graphics/true-blue.png"></div>
+		<div class="box-50"><img src="graphics/clutchCrazy1.png"></div>
+		
+		
 		<div class="box-50"><img src="graphics/Benjamin-Britts-Teaser.png"></div>
+	    <div class="box-50"><img src="graphics/Benjamin-Britts.png"></div>
+		
 		<div class="box-50"> <img src="graphics/home-and-heart.png"></div>
 		<div class="box-50"><img src="graphics/jet-black.png"></div>
 		
@@ -26,8 +36,9 @@
 		
 		
 		<div class="box-50"><img src="graphics/glow-in-dark-sandal.png"></div>
-		<div class="box-50"><img src="graphics/platform-sandal-anat.png"></div>
 		<div class="box-50"><img src="graphics/black-sandals.png"></div>
+		<div class="box-50"><img src="graphics/platform-sandal-anat.png"></div>
+		
 		<div class="box-50"><img src="graphics/blue-sandal.png"></div>
 		<div class="box-50"><img src="graphics/nucleus-grey-gradient.png"></div>
 		<div class="box-50"><img src="graphics/nucleus-purple-gradient.png"></div>
