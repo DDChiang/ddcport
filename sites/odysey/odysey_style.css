@@ -8,12 +8,12 @@ body {
   background-size: 1440px;
   margin: 0 auto;
   width: 100%;
-  min-height: 164em;
+  min-height: 160em;
   position:relative;
  
 }
 
-.content {
+.content {
  text-align: center; 
 }
 
@@ -49,7 +49,7 @@ body {
   position: absolute; 
   text-align: center; 
   font-size: 1.5em;
-  top: 160vh; 
+  top: 40em; 
   width: 90%; 
  padding-left: 5%;
  color: #dddddd;
@@ -204,14 +204,16 @@ body {
   opacity: .8;
 }
 
-@media (max-width: 1015px) {
+@media (max-width: 732px) {
   #sec-1 {
-  min-height: 397vh;
+    min-height: 160em;
   }
+  
+  
 }
 @media (max-width: 683px) {
   #sec-1 {
-    min-height: 370vh;
+    min-height: 150em;
   }
   
   #hero-title {
@@ -265,9 +267,10 @@ body {
 	height: ;
   }
   
+  
   #sec-1 {
     min-height: 57em;
-	background: url('goldenglobe.jpg');
+	background: url('goldenglobe.jpg') fixed;
 	background-size:1200px;
   }
 
@@ -298,8 +301,6 @@ body {
   
   #sec-2 {
     min-height: 380px;
-	background: url('starrysky_ult.jpg');
-    background-size: 1200px;
   }
   
   .options {

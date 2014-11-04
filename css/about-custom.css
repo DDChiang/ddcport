@@ -1,0 +1,19 @@
+.blurb {
+  width: 90%;
+  margin-left: 5%;
+  color: #433a3b;
+  letter-spacing: .04em;
+  font-size: 1.2em;
+  margin-top: 1.3em;
+  margin-bottom: 1.3em;
+  line-height: 2em;
+}
+
+a#email{
+  color: #ff9900;
+}
+
+#oomph {
+  color: black;
+  font-size: 1.5em;
+}
